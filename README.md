@@ -24,7 +24,7 @@ While Google Maps shows the shortest path from a starting point to a destination
 
 1. cd into NodeBackend using ```cd NodeBackend```
 2. Run ```npm i```
-3. Enter your credentials in nodemailer,if you act as an admin.
+3. Enter your email credentials in nodemailer.
 4. Enter "Your API Key HERE"
 5. Run server using ```node index.js```
 
