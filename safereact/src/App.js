@@ -3,7 +3,7 @@ import './App.css';
 import mapboxgl from 'mapbox-gl';
 import axios from 'axios';
 
-mapboxgl.accessToken = 'pk.eyJ1IjoicmFodWwxNDMwIiwiYSI6ImNrNmpwazN3MDAwMmkza3BieXIxNno2MmQifQ.bUkNfThpdNRX3hybBTyDMw';
+mapboxgl.accessToken = "MAPBOX";
 
 class MapClass extends Component{
 
